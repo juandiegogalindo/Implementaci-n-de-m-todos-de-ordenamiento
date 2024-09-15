@@ -1,4 +1,4 @@
-# Implementaci-n-de-m-todos-de-ordenamiento
+# Implementaciòn de mètodos de ordenamiento
 Insertion sort
 
 public class InsertionSortMain {
